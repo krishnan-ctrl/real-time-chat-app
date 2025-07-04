@@ -1,0 +1,22 @@
+{
+  "name": "real-time-chat-app",
+  "version": "1.0.0",
+  "description": "A real-time chat application using WebSockets and React.js",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.4.6"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "chat",
+    "websockets",
+    "react"
+  ],
+  "author": "",
+  "license": "ISC"
+}
